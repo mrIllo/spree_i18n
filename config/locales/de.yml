@@ -700,8 +700,8 @@ de:
       unsuccessfully_updated: Beim Versuch, Ihre Adresse zu aktualisieren, wurde ein Update durchgeführt.
       save: Speichern
       address_name_placeholder: Geben Sie dieser Adresse einen eindeutigen Namen (Arbeit, Zuhause usw.)
-      new_address: "Neues Adresse"
-      edit_address: "Adresse bearbeiten"
+      new_address: Neue Adresse
+      edit_address: Adresse bearbeiten
       remove_address: Adresse entfernen
     adjustable: Anpassbar
     adjustment: Anpassung
@@ -962,7 +962,7 @@ de:
     coupon_code_unknown_error: Der Gutschein-Code verursachte ein unbekannntes Problem
     create: Erstellen
     create_a_new_account: Neues Konto erstellen
-    create_new_order: Neuer Bestellung
+    create_new_order: Neue Bestellung
     create_reimbursement: Vergütung beantragen
     created_at: Erstellt am
     created_by: Erstellt von
