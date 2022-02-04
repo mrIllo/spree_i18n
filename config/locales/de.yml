@@ -93,7 +93,7 @@ de:
         quantity: Menge
         total: Preis (total)
       spree/option_type:
-        filterable: filtrierbar
+        filterable: kann gefiltert werden
         name: Name
         presentation: Angezeigter Wert
       spree/option_value:
@@ -162,7 +162,7 @@ de:
         meta_description: Meta-Beschreibung
         meta_keywords: Meta-Schlagwörter
         meta_title: Meta-Titel
-        more_than: 'TODO: More than'
+        more_than: mehr als
         name: Name
         on_hand: verfügbar
         price: Verkaufspreis (netto)
@@ -296,7 +296,7 @@ de:
         amount_used: Vervendete Summe
         memo: Notiz
       spree/store_credit_category:
-        name: 'TODO: Name'
+        name: Name
       spree/store_credit_event:
         action: Aktion
       spree/tax_category:
@@ -454,11 +454,11 @@ de:
       spree/calculator:
         one: Rechner
       spree/cms_page:
-        one: 'TODO: Page'
-        other: 'TODO: Pages'
+        one: Seite
+        other: Seiten
       spree/cms_section:
-        one: 'TODO: Section'
-        other: 'TODO: Sections'
+        one: Sektion
+        other: Sektionen
       spree/country:
         one: Land
         other: Länder
@@ -687,7 +687,7 @@ de:
     add_new_address: Neue Adresse hinzufügen
     add_new_credit_card: Neue Karte hinzufügen
     add_new_header: Header hinzufügen
-    add_new_store: 'TODO: Add New Store'
+    add_new_store: Neuen Shop hinzufügen
     add_new_style: Stil hinzufügen
     add_one: Hinzufügen
     add_option_value: Optionswert hinzufügen
@@ -712,12 +712,12 @@ de:
       delete_title: Sind Sie sicher?
     address_book:
       add_new_shipping_address: Neue Adresse hinzufügen
-      address_name_label: 'TODO: Address Name'
-      address_name_placeholder: Geben Sie dieser Adresse einen eindeutigen Namen (Arbeit, Zuhause usw.)
-      addresses: 'TODO: Addresses'
+      address_name_label: Bezeichnung
+      address_name_placeholder: Geben Sie dieser Adresse eine eindeutige Bezeichnung (Arbeit, Zuhause usw.)
+      addresses: Adressen
       edit_address: Adresse bearbeiten
       edit_shipping_address: Adresse bearbeiten
-      label: 'TODO: Address Name'
+      label: Bezeichnung
       new_address: Neue Adresse
       new_shipping_address: Neue Addresse
       no_shipping_addresses_on_file: Keine Adressen in der Datei
@@ -779,10 +779,10 @@ de:
           tall_image: 'TODO: Please use an image with an aspect ratio of 27:40 (1080px x 1600px).'
         info_featured_article_body: 'TODO: <p>The Feature Article section allows you to add rich text to your page with a set title subtitle and linking button.</p> <p>This section can be set to use full screen or container and also use gutters.</p>'
         info_hero_image_body: >-
-          TODO: <p>The Hero Image section adds a large image with a button and tagline text to your page.</p> <p>The button can link to a Product, Taxon or Page. This section can be set to fit within the central container or to the edges of the screen.</p> <p><b>Tip:</b> Use a hero image with no button text or title, and then set the <b>Fit:</b> to <b>Container</b> and <b>Gutters</b> to <b>Use Gutters</b>
+          TODO <p>The Hero Image section adds a large image with a button and tagline text to your page.</p> <p>The button can link to a Product, Taxon or Page. This section can be set to fit within the central container or to the edges of the screen.</p> <p><b>Tip:</b> Use a hero image with no button text or title, and then set the <b>Fit:</b> to <b>Container</b> and <b>Gutters</b> to <b>Use Gutters</b>
           this creates an image section that looks great above a Side-by-Side Images section, or an Image Gallery section.</p> <p>Experiment with the settings, and don't be afraid to use more than one Hero Image section per page.</p>
         info_image_gallery_body: >-
-          TODO: <p>The Image Gallery section can be configured in several ways. For example, each image can link to a product or taxon. If you do not provide a link, you can display three images. Additionally, you can also use labels to add text to your images.</p> <p>There are two layout configurations for the Image Gallery section, with the taller image used on the left or the right. You can also
+          TODO <p>The Image Gallery section can be configured in several ways. For example, each image can link to a product or taxon. If you do not provide a link, you can display three images. Additionally, you can also use labels to add text to your images.</p> <p>There are two layout configurations for the Image Gallery section, with the taller image used on the left or the right. You can also
           set this section to fit the edges of the screen or the central container to match your website's style.</p>
         info_product_carousel_body: 'TODO: <p>Product Carousel is a simple section to use. Search for the taxon you wish to display, save the changes, and the products in your chosen taxon will be displayed on your page.</p>'
         info_rich_text_content_body: 'TODO: <p>The Rich Text Content section is simply a section that offers nothing more than an area of rich text editor content to be displayed on your page.</p>'
@@ -825,7 +825,7 @@ de:
         default_menus_info:
           allow_this_menu_item_to_contain_nested_menu_items: 'TODO: Allow this Menu Item to contain nested items'
           body: >-
-            TODO: Default menus are menus whose language matches the associated store's default language.<br><br> <h5>Example</h5>If you have a store that uses Spanish as the default language but also offers the options of German and French; your default header menu for this store would be set to use <b>Español (es)</b> for the language and <b>Header</b> as the location.<br><br> <h5>Why Are Default
+            TODO Default menus are menus whose language matches the associated store's default language.<br><br> <h5>Example</h5>If you have a store that uses Spanish as the default language but also offers the options of German and French; your default header menu for this store would be set to use <b>Español (es)</b> for the language and <b>Header</b> as the location.<br><br> <h5>Why Are Default
             Menus Important?</h5> Default menus are displayed to your visitor if no menu is available in the current language they are browsing. It is recommended that you create a default menu for each menu location within each store.<br><br> <h5>More Information</h5>To learn more about menus, view the official Spree user documentation by <a href='https://guides.spreecommerce.org/user/navigation/building_the_main_menu.html'
             target='_blank' class='alert-link'>clicking here</a>.
           title: 'TODO: Default Menus'
@@ -839,7 +839,7 @@ de:
         managing_by_store: 'TODO: <p>You are managing the menus for <b>%{store}</b>. To manage menus for other stores, change the global store using the drop-down in the main navbar found at the top of the screen.</p>'
         managing_by_store_title: 'TODO: Managing Menus By Store'
         menu_item_type_container_message: >-
-          TODO: Containers are menu items that do not link to a destination. If you are building the Spree Main Menu create containers with the code: <b>category</b> or <b>promo</b>, and then nest your links inside these containers build out your menu. <br><br> For an indepth guide to building the main menu see the documenttation page <a href='https://guides.spreecommerce.org/user/navigation/building_the_main_menu.html'
+          TODO Containers are menu items that do not link to a destination. If you are building the Spree Main Menu create containers with the code <b>category</b> or <b>promo</b>, and then nest your links inside these containers build out your menu. <br><br> For an indepth guide to building the main menu see the documenttation page <a href='https://guides.spreecommerce.org/user/navigation/building_the_main_menu.html'
           target='_blank' class='alert-link'>Building The Main Menu</a>
         menu_items: 'TODO: %{menu_name} Items'
         menus: 'TODO: Menus'
@@ -854,7 +854,7 @@ de:
         seach_for_a_product: 'TODO: Search for a Product'
         seach_for_a_taxon: 'TODO: Search for a Taxon'
         set_a_code: >-
-          TODO: Adding a code is optional but can be useful if you need to identify this menu item. When building the Spree main menu use the code <b>category</b> or <b>promo</b> to create the containers that organize links and promotions appropriately. To learn more view the documentation by <a href='https://guides.spreecommerce.org/user/navigation/add_menu_items.html' target='_blank' class='alert-link'>clicking
+          TODO Adding a code is optional but can be useful if you need to identify this menu item. When building the Spree main menu use the code <b>category</b> or <b>promo</b> to create the containers that organize links and promotions appropriately. To learn more view the documentation by <a href='https://guides.spreecommerce.org/user/navigation/add_menu_items.html' target='_blank' class='alert-link'>clicking
           here</a>.
         settings: 'TODO: Settings'
         subtitle: 'TODO: Subtitle'
@@ -884,13 +884,13 @@ de:
       tab:
         checkout: Zur Kasse
         configuration: Konfiguration
-        content: 'TODO: Content'
+        content: Inhalte
         customer_returns: Kunden Rücksendungen
-        navigation: 'TODO: Navigation'
+        navigation: Navigation
         option_types: Optionen
         orders: Bestellungen
         overview: Übersicht
-        pages: 'TODO: Pages'
+        pages: Seiten
         payments: Zahlungen
         products: Produkte
         promotion_categories: Aktion Kategorien
@@ -1007,14 +1007,14 @@ de:
     canceled: Storniert
     canceled_at: Abgebrochen am
     canceler: Abgebrochen von
-    cannot_be_destroyed: 'TODO: Order cannot be destroyed.'
+    cannot_be_destroyed: Bestellung kann nicht gelöscht werden.
     cannot_create_customer_returns: Kann Rücksendung nicht durchführen.
     cannot_create_payment_link: Bitte definieren Sie zuerst mindestens eine Zahlungsmethode.
     cannot_create_payment_without_payment_methods: Sie können keine Zahlung für eine Bestellung anlegen, ohne vorher eine Zahlungsmethode definiert zu haben.
     cannot_create_returns: Sie können diese Bestellung nicht zurückgeben, da sie noch nicht versendet wurde.
     cannot_destroy_if_attached_to_line_items: Kann nicht gelöscht werden wenn es zu einem Einzelposten gehört
-    cannot_empty: 'TODO: Cannot empty order.'
-    cannot_empty_completed_order: Ihre Bestellung wurde bereits bearbeitet und kann daher nicht geleert werden
+    cannot_empty: Bestellung kann nicht geleert werden.
+    cannot_empty_completed_order: Ihre Bestellung wurde bereits bearbeitet und kann daher nicht geleert werden.
     cannot_perform_operation: Kann diese Operation nicht durchführen.
     cannot_return_more_than_bought_quantity: Es kann nicht mehr als die gekaufte Menge zurückgegeben werden.
     cannot_set_shipping_method_without_address: Die Versandart kann erst geändert werden, wenn die Kundendaten ausgefüllt sind.
@@ -1027,7 +1027,7 @@ de:
     cart: Warenkorb
     cart_page:
       add_promo_code: WERBECODE HINZUFÜGEN
-      change_quantity: 'TODO: Change quantity'
+      change_quantity: Menge ändern
       checkout: Zur Kasse
       empty_info: Ihr Warenkorb ist leer
       header: Ihr Warenkorb
@@ -1108,7 +1108,7 @@ de:
     coupon_code: Gutschein-Code
     coupon_code_already_applied: Der Gutschein-Code wurde bereits bei dieser Bestellung eingelöst
     coupon_code_applied: Der Gutschein wurde erfolgreich zu Ihrer Bestellung zugeordnet.
-    coupon_code_apply: 'TODO: Apply'
+    coupon_code_apply: anwenden
     coupon_code_better_exists: Der zuvor angegebene Gutscheincode ergibt ein besseres Angebot
     coupon_code_expired: Der Gutschein-Code ist abgelaufen
     coupon_code_max_usage: Limit für Gutschein-Codes erreicht
@@ -1130,7 +1130,7 @@ de:
     credit_owed: Betrag ausstehend
     credited: Gutgeschrieben
     credits: Gutschrift
-    currencies: 'TODO: Currencies'
+    currencies: Währungen
     currency: Währung
     currency_decimal_mark: Dezimaltrennzeichen
     currency_settings: Währungseinstellungen
@@ -1189,8 +1189,8 @@ de:
     display: Angezeigter Wert
     display_currency: Währung anzeigen
     doesnt_track_inventory: Bestandsverfolgung ist deaktiviert
-    dont_have_account: Keine Konto?
-    draft_mode: 'TODO: Draft Mode'
+    dont_have_account: Noch kein Konto?
+    draft_mode: Entwurfsmodus
     edit: Bearbeiten
     edit_reimbursement: Erstattung bearbeiten
     editing_resource: Eintrag bearbeiten
@@ -1264,8 +1264,8 @@ de:
     extensions_directory: Erweiterungsverzeichnis
     facebook: Facebook
     failed_payment_attempts: Fehlgeschlagene Zahlversuche
-    favicon: 'TODO: Favicon'
-    favicon_upload_info: 'TODO: File format: PNG or ICO. File resolution: up to 256x256. File size: up to 1MB'
+    favicon: Favicon
+    favicon_upload_info: 'Dateiformat: PNG or ICO. Grafikauflösung: bis zu 256x256. Dateigröße: bis zu 1MB'
     filename: Dateiname
     fill_in_customer_info: Bitte geben Sie die Kundendaten ein
     filter: Filtern
@@ -1278,14 +1278,14 @@ de:
     first_item: Kosten für das erste Produkt
     first_name: Vorname
     first_name_begins_with: Vorname beginnt mit
-    firstname: 'TODO: First Name'
+    firstname: Vorname
     flat_percent: Prozentual
     flat_rate_per_order: Fester Preis (pro Bestellung)
     flexible_rate: Flexibel Preis
     follow_us: Folge uns
     footer: Fusszeile
     forgot_password: Passwort vergessen?
-    free: 'TODO: Free'
+    free: kostenlos
     free_shipping: Versandkostenfrei
     free_shipping_amount: Versandkostenfreibetrag
     from: von
@@ -1534,7 +1534,7 @@ de:
     no_actions_added: Keine Aktionen hinzugefügt
     no_address_given: Keine Adresse angegeben
     no_available_date_set: Verfügbarkeitsdatum nicht vorhanden
-    no_cc_type: 'TODO: N/A'
+    no_cc_type: N/A
     no_country: Kein Land festgelegt
     no_limits_zone: nicht Zonen begrenzt
     no_payment_found: Keine Zahlung gefunden
@@ -1576,7 +1576,7 @@ de:
     open: Öffnen
     open_all_adjustments: Alle Anpassungen öffnen
     option_type: Optionstyp
-    option_type_filterable_info: 'TODO: When an option type is set to Filterable, your storefront visitors are presented with the option to filter a taxon of products based on the option type. A typical example of this would be to filter clothing by size and color.<br><br><b>Please Note:</b> Filters will only be visible in the storefront taxons that contain products with this option type set.'
+    option_type_filterable_info: 'Wenn die Option "kann gefiltert werden" aktiviert ist, wird den Besuchern die Möglichkeit geboten, Produkte nach diesem Optionstyp zu filtern. Ein typischer Anwendungsfall wäre die Filterung von Kleidung nach Größe und Farbe.<br><br><b>Hinweis:</b> Filter werden im Frontend nur angezeigt für Produkte, die diesen Optionstyp gesetzt haben.'
     option_type_placeholder: Optionstyp wählen
     option_types: Optionen
     option_value: Optionswert
