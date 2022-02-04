@@ -1598,7 +1598,7 @@ de:
     order_line_items: Bestellposten
     order_mailer:
       cancel_email:
-        dear_customer: Sehr geehrte Kundin, geehrter Kunde,
+        dear_customer: Sehr geehrte Kundin, sehr geehrter Kunde,
         instructions: Ihre Bestellung wurde storniert. Bitte bewahren Sie diese Information für Ihre Unterlagen auf.
         order_summary_canceled: Bestellzusammenfassung [STORNO]
         subject: Bestellung storniert
@@ -1606,7 +1606,7 @@ de:
         thanks: Vielen Dank für Ihren Besuch.
         total: Gesamtsumme
       confirm_email:
-        dear_customer: Sehr geehrte Kundin, geehrter Kunde,
+        dear_customer: Sehr geehrte Kundin, sehr geehrter Kunde,
         instructions: bitte prüfen Sie noch einmal die folgende Bestellung und bewahren die Bestellbestätigung für Ihre Unterlagen auf.
         order_summary: Folgende Artikel wurden von Ihnen bestellt
         subject: Bestellbestätigung
@@ -1614,13 +1614,13 @@ de:
         thanks: Vielen Dank für Ihre Bestellung.
         total: Gesamtsumme
       inventory_cancellation:
-        dear_customer: Sehr geehrte Kundin, geehrter Kunde,
-        instructions: ein oder mehrere Artikel aus Ihrer Bestellung wurden storniert. Bitte bewahren Sie diese Information für Ihre Unterlagen auf.
+        dear_customer: Sehr geehrte Kundin, sehr geehrter Kunde,
+        instructions: ein oder mehrere Artikel aus Ihrer Bestellung wurde(n) storniert. Bitte bewahren Sie diese Information für Ihre Unterlagen auf.
         order_summary_canceled: Stornierte Artikel
         subject: Stornierung von Artikeln
       store_owner_notification_email:
         heading: Neue Bestellung erhalten
-        instructions: Sie haben eine neue Bestellung erhalten.
+        instructions: Gratuliere, Sie haben eine neue Bestellung erhalten!
         order_summary: Bestellung %{number} Zusammenfassung
         subject: "%{store_name} hat eine neue Bestellung erhalten"
         thanks: Vielen Dank für Ihr Geschäft.
