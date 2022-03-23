@@ -1181,8 +1181,8 @@ de:
     destination: Ziel
     destroy: Entfernen
     details: Details
-    discontinue_on: Eingestellt am
-    discontinued: Eingestellt
+    discontinue_on: Verfügbar bis
+    discontinued: nicht mehr verfügbar
     discontinued_variants_present: Einige Einzelposten in dieser Bestellung enthalten Produkte, die nicht mehr verfügbar sind.
     discount_amount: Skonto
     dismiss_banner: Nein. Danke! Ich bin nicht interessiert, bitte diese Nachricht nicht erneut anzeigen.
