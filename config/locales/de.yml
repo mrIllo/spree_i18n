@@ -2255,6 +2255,23 @@ de:
     use_s3: Benutze Amazon S3 für Bilder
     used: Benutzt
     user: Benutzer
+    user_mailer:
+      reset_password_instructions:
+        welcome: "Sehr geehrte Kundin, sehr geehrter Kunde,"
+        instructions_1: Es wurde eine Anfrage zum Zurücksetzen Ihres Passworts gestellt.
+        instructions_2: "Wenn Sie diese Anfrage gestellt haben, klicken Sie bitte auf den folgenden Link:"
+        instructions_3: Wenn Sie diese Anfrage nicht gestellt haben, ignorieren Sie diese E-Mail.
+        button: Passwort zurücksetzen
+        thanks: Liebe Grüße,
+        store_team: "Ihr %{store_name} Team"
+      confirmation_instructions:
+        welcome: "Sehr geehrte Kundin, sehr geehrter Kunde,"
+        instructions_1: "Vielen Dank für Ihre Registrierung im %{store_name}."
+        instructions_2: "Zur Bestätigung Ihrer Registrierung klicken Sie bitte auf den folgenden Link:"
+        instructions_3: Bitte antworten Sie einfach auf diese E-Mail, wenn Sie mit uns in Kontakt treten möchten oder eine Frage haben.
+        button: E-Mail-Adresse bestätigen
+        thanks: Liebe Grüße,
+        store_team: "Ihr %{store_name} Team"
     user_not_found: Benutzer nicht gefunden
     user_rule:
       choose_users: Benutzer wählen
